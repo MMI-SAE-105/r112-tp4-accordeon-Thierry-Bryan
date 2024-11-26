@@ -1,14 +1,16 @@
 .accordeon {
-display: flex;
+    display: flex;
+    width: 100%;
 }
 
 details {
     position: relative;
-    width: 10%;
-
+    width: 130px;
 }
 
 details[open] {
+    margin-right: 120px;
+    padding: 0;
 }
 
 details>summary {
@@ -21,3 +23,4 @@ details>summary {
 details>div {
     padding-left: 130px;
 }
+
