@@ -1,3 +1,23 @@
-/**
-* Accordeon
-*/
+.accordeon {
+display: flex;
+}
+
+details {
+    position: relative;
+    width: 10%;
+
+}
+
+details[open] {
+}
+
+details>summary {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+details>div {
+    padding-left: 130px;
+}

@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Thierry
+- prénom : Bryan 
+- URL Netlify : https://strong-sunshine-ccac32.netlify.app
 
 # Travail
 
